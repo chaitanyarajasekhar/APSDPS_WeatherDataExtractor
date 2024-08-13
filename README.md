@@ -1,4 +1,4 @@
-# Extractor for APSDPS last 24 hrs climate data
+# Extractor for APSDPS last 24 hrs Weather data
 
 url http://apsdps.ap.gov.in/Realtime/Alldata24.jsp
 
